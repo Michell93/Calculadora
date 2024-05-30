@@ -2,10 +2,6 @@
 
 # Calculadora
 
-Calculadora com funções simples.
-
-## 🔨 Funcionalidades do projeto
-
 Calculadora com funções simples que realiza calculos.
 
 ## ✔️ Técnicas e tecnologias utilizadas
