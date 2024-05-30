@@ -1,8 +1,8 @@
+<img src="./screenshot.png" alt="Calculadora">
+
 # Calculadora
 
 Calculadora com funções simples.
-
-<img src="./screenshot.png" alt="Calculadora">
 
 ## 🔨 Funcionalidades do projeto
 
